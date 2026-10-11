@@ -27,7 +27,7 @@ A simple web app that takes one number and converts it across three measurement 
 
 **Mass (Kilograms and Pounds)**
 
--Kilograms to pounds
+- Kilograms to pounds
 
 - Pounds to kilograms
 
