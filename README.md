@@ -59,9 +59,11 @@ Gallons are US liquid gallons, not imperial gallons. Rounding to 3 decimal place
 
 Replace this section with what you actually used, for example:
 
-- <img src="https://skillicons.dev/icons?i=html">&nbsp;
-- <img src="https://skillicons.dev/icons?i=css">&nbsp;
-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript"></a>&nbsp;
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html">&nbsp;
+  <img src="https://skillicons.dev/icons?i=css">&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript"></a>&nbsp;
+</p>
 
 ## Run Locally
 
@@ -74,6 +76,5 @@ The site is hosted on Netlify and publicly accessible. Netlify rebuilds and rede
 
 ## Author
 
-Built as a solo project by [Justin Monge](https://github.com/justinmnge).
-[LinkedIn](www.linkedin.com/in/justin-mnge)
+Built as a solo project by [Justin Monge](https://github.com/justinmnge). My [LinkedIn](www.linkedin.com/in/justin-mnge).
 
