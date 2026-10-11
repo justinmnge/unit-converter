@@ -2,7 +2,7 @@
 
 A simple web app that takes one number and converts it across three measurement categories at once: length, volume, and mass. Every result is rounded to 3 decimal places and runs in both directions. A light mode and dark mode button lets you pick the theme you prefer.
 
-**Live site:** <https://YOUR_SITE_NAME.netlify.app>
+**Live site:** <https://unit-converter-justinmnge.netlify.app/>
 
 ## Features
 
