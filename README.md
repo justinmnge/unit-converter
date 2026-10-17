@@ -3,8 +3,8 @@
 A simple web app that takes one number and converts it across three measurement categories at once: length, volume, and mass. Every result is rounded to 3 decimal places and runs in both directions. A light mode and dark mode button lets you pick the theme you prefer.
 
 <p float="center">
-  <img width="933" height="919" alt="Image-dark" src="https://github.com/user-attachments/assets/d0d72136-cbeb-454c-899d-e5f4a0d4859b" style="width: 48%" />
-  <img width="937" height="911" alt="Image-light" src="https://github.com/user-attachments/assets/372f0eab-63cc-4c8f-9dac-0c77d6abeb89" style="width: 48%"/>
+  <img width="930" height="900" alt="Image-dark" src="https://github.com/user-attachments/assets/d0d72136-cbeb-454c-899d-e5f4a0d4859b" style="width: 48%" />
+  <img width="930" height="900" alt="Image-light" src="https://github.com/user-attachments/assets/372f0eab-63cc-4c8f-9dac-0c77d6abeb89" style="width: 48%"/>
 </p>
 
 **Live site:** <https://unit-converter-justinmnge.netlify.app/>
